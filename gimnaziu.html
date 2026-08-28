@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EduSpace — Resurse</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header class="header">
+    <div class="container nav">
+      <a class="logo" href="index.html"><span>✦</span> EduSpace</a>
+
+      <nav>
+        <a href="index.html">Acasă</a>
+        <a href="gimnaziu.html" class="purple">Gimnaziu</a>
+        <a href="liceuinfo.html">Liceu - info</a>
+        <a href="liceutic.html">Liceu - TIC</a>
+
+      </nav>
+
+      <button class="menu-btn" id="menuBtn">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="section resources">
+      <div class="container">
+
+        <div class="section-head">
+          <div>
+            <span class="eyebrow">Gimnaziu</span>
+            <h2>Materiale pentru elevi</h2>
+          </div>
+
+          <div class="filters">
+            <button class="filter active" data-category="Toate">
+              Toate
+            </button>
+
+            <button class="filter" data-category="V">
+              Clasa a V-a
+            </button>
+
+            <button class="filter" data-category="VI">
+              Clasa a VI-a
+            </button>
+
+            <button class="filter" data-category="VII">
+              Clasa a VII-a
+            </button>
+
+            <button class="filter" data-category="VIII">
+              Clasa a VIII-a
+            </button>
+          </div>
+        </div>
+
+        <div class="resource-grid" id="resourceGrid"></div>
+
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <b>✦ EduSpace</b>
+      <span>Platformă educațională • Materiale pentru elevi</span>
+      <span>© 2026</span>
+    </div>
+  </footer>
+
+  <script src="gimnaziu.js"></script>
+  <script src="resurse.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

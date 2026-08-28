@@ -386,12 +386,16 @@ body {
   color: #5559e8;
 }
 
-.purple-tag {
-  color: #8b56e8;
+.orange-tag {
+  color: #ea580c;
 }
 
 .green-tag {
   color: #32a26b;
+}
+
+.red-tag {
+  color: rgb(241, 73, 73);
 }
 
 .resource h3 {
@@ -414,6 +418,7 @@ body {
   text-decoration: none;
   font-size: 11px;
   font-weight: 700;
+  background-color: transparent !important;
 }
 
 
@@ -424,14 +429,19 @@ body {
   color: #5559e8;
 }
 
-.purple {
-  background: #f3edff;
-  color: #8b56e8;
+.orange {
+  background: #ffedd5;
+  color: #ea580c;
 }
 
 .green {
   background: #eafaf2;
   color: #32a26b;
+}
+
+.red {
+  background: #fee2e2;
+  color: #ef4444
 }
 
 
