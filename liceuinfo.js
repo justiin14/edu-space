@@ -2,18 +2,19 @@ const liceuinfo = [
   {
     clasa: "IX",
     materie: "Informatică",
-    titlu: "Pseudocod",
-    descriere: "Scheme logice",
-    link: "materiale/apus.png",
+    titlu: "Scheme logice",
+    descriere: "Blocurile de reprezentare a schemei logice",
+    link: "materiale/schema_logica.png",
     culoare: "orange"
   },
 
+  
   {
-    clasa: "X",
+    clasa: "IX",
     materie: "Informatică",
-    titlu: "Structura decizională în C++",
-    descriere: "Structura de tip if-else",
-    link: "materiale/apus.png",
-    culoare: "green"
-  }
+    titlu: "Manual Informatică - Științe ale naturii",
+    descriere: "Manual școlar",
+    link: "materiale/info_sn_9.pdf",
+    culoare: "blue"
+  },
 ];

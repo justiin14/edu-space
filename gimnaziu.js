@@ -2,8 +2,8 @@ const gimnaziu = [
   {
     clasa: "V",
     materie: "Informatică și TIC",
-    titlu: "Calculatorul",
-    descriere: "Componente și funcții",
+    titlu: "Test inițial",
+    descriere: "-",
     link: "materiale/castel.png",
     culoare: "orange"
   },
@@ -11,27 +11,27 @@ const gimnaziu = [
   {
     clasa: "VI",
     materie: "Informatică și TIC",
-    titlu: "Primii pași în PowerPoint",
-    descriere: "Material introductiv pentru MS PowerPoint.",
-    link: "materiale/apus.png",
+    titlu: "Test inițial",
+    descriere: "-",
+    link: "https://forms.gle/2HEY1JHWMC34YyqC8",
     culoare: "red"
   },
 
   {
     clasa: "VII",
     materie: "Informatică și TIC",
-    titlu: "Primii pași în Word",
-    descriere: "Material introductiv pentru MS Word.",
-    link: "materiale/apus.png",
+    titlu: "Test inițial",
+    descriere: "-",
+    link: "https://forms.gle/8ycCYVRHCz4tTKje6",
     culoare: "blue"
   },
 
   {
     clasa: "VIII",
     materie: "Informatică și TIC",
-    titlu: "Primii pași în Excel",
-    descriere: "Material introductiv pentru MS Excel.",
-    link: "materiale/apus.png",
+    titlu: "Test inițial",
+    descriere: "-",
+    link: "",
     culoare: "green"
   },
 ];
