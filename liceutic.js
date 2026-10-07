@@ -19,6 +19,15 @@ const liceutic = [
     culoare: "red"
   },
 
+  {
+    clasa: "X",
+    materie: "TIC",
+    titlu: "Funcții Excel",
+    descriere: "Funcțiile MIN, MAX, SUM, AVERAGE.",
+    link: "materiale/Excel_10-2.pdf",
+    culoare: "red"
+  },
+
   //CLASA A 11-A
   {
     clasa: "XI",
