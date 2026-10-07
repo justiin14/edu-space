@@ -65,6 +65,25 @@ const liceutic = [
     culoare: "blue"
   },
 
+  {
+    clasa: "XI",
+    materie: "TIC",
+    titlu: "Fișier sortări",
+    descriere: "Fișier",
+    link: "materiale/filter-sort.xlsx",
+    culoare: "blue"
+  },
+
+  {
+    clasa: "XI",
+    materie: "TIC",
+    titlu: "Cerințe fișier sortări",
+    descriere: "Fișă de lucru",
+    link: "materiale/fisa-sort-11.pdf",
+    culoare: "blue"
+  },
+
+
   //CLASA A 12-A
   {
     clasa: "XII",
