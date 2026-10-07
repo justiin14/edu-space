@@ -24,7 +24,7 @@ const liceuinfo = [
     materie: "Informatică",
     titlu: "Probleme introductive C++",
     descriere: "Probleme cu grad scăzut de dificultate",
-    link: "materiale/info_sn_9.pdf",
+    link: "materiale/prob-info-10-cpp.pdf",
     culoare: "orange"
   },
 
