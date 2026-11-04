@@ -27,6 +27,15 @@ const liceutic = [
     link: "materiale/Excel_10-2.pdf",
     culoare: "red"
   },
+  
+  {
+    clasa: "X",
+    materie: "TIC",
+    titlu: "Fișe de lucru",
+    descriere: "Serie de fișe de lucru în Excel",
+    link: "materiale/fise_excel_10.pdf",
+    culoare: "red"
+  },
 
   //CLASA A 11-A
   {
