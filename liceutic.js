@@ -91,6 +91,15 @@ const liceutic = [
     link: "materiale/fisa-sort-11.pdf",
     culoare: "blue"
   },
+  
+  {
+    clasa: "XI",
+    materie: "TIC",
+    titlu: "Introducere în HTML",
+    descriere: "Material introductiv în HTML",
+    link: "materiale/introducere-html.pdf",
+    culoare: "blue"
+  },
 
 
   //CLASA A 12-A
