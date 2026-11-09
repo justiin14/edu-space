@@ -119,7 +119,7 @@ const liceutic = [
     descriere: "Material recapitulativ pentru MS Word.",
     link: "materiale/Word_U11-1.pdf",
     culoare: "green"
-  }
+  },
   
   {
     clasa: "XII",
@@ -128,7 +128,7 @@ const liceutic = [
     descriere: "Subiect competente Fișa A și Fișa B (1,6)",
     link: "materiale/sub-comp1.pdf",
     culoare: "green"
-  }
+  },
   
   {
     clasa: "XII",
@@ -137,5 +137,5 @@ const liceutic = [
     descriere: "Folderul cu fișierele necesare rezolvării subiectului de competente 1.",
     link: "materiale/examen1011.rar",
     culoare: "green"
-  }
+  }, 
 ];
