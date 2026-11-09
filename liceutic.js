@@ -137,5 +137,5 @@ const liceutic = [
     descriere: "Folderul cu fișierele necesare rezolvării subiectului de competente 1.",
     link: "materiale/examen1011.rar",
     culoare: "green"
-  }, 
+  }
 ];
