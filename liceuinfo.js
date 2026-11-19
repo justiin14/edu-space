@@ -17,6 +17,15 @@ const liceuinfo = [
     link: "materiale/info_sn_9.pdf",
     culoare: "orange"
   },
+  
+  {
+    clasa: "IX",
+    materie: "Informatică",
+    titlu: "Probleme structura de decizie",
+    descriere: "Probleme care se rezolvă cu structura if-else",
+    link: "materiale/if-else.pdf",
+    culoare: "orange"
+  },
 
   // CLASA X-a
   {

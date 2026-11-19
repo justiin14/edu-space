@@ -9,6 +9,15 @@ const liceutic = [
     culoare: "orange"
   },
   
+  {
+    clasa: "IX",
+    materie: "TIC",
+    titlu: "Inteligența artificială",
+    descriere: "Fișă de lucru cu exerciții utilizând IA",
+    link: "materiale/ai.pdf",
+    culoare: "orange"
+  },
+  
   // CLASA A 10-A
   {
     clasa: "X",
